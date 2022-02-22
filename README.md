@@ -1,13 +1,13 @@
 # theMatch
 The Match game
 
-### Contributers
+## Contributers
 
 1. Pol (Before the match)
 2. Victor (During the match)
 3. Georgii (After the match)
 
-### Things that I've learned
+## Things that I've learned
 
 Basic Renpy project structure (Knoing how to label names correctly, also some comments for other coders to give some context))
 
@@ -20,7 +20,7 @@ Changes in the main configuration of the project (we've added multiple choice qu
 
 Changes of scenes and images (adding pictures to enphasise what the story is talking about.)
 
-### Things I can teach
+## Things I can teach
 
 Basic Renpy project structure
 
@@ -39,7 +39,7 @@ Changes in the main configuration of the project
 
 Changes of scenes and images
 
-### Bibliography / Resources/photos
+## Bibliography / Resources/photos
 
 
 https://www.youtube.com/watch?v=C3Ldd-5PKCw&t=70s (this is a basic renpy tutorial on how to start our coding, wich it explained with good details.)
