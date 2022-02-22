@@ -1,9 +1,6 @@
 # theMatch
 The Match game
 
-# theMatch
-The Match game
-
 ### Contributers
 
 1. Pol (Before the match)
@@ -14,7 +11,6 @@ The Match game
 
 Basic Renpy project structure (Knoing how to label names correctly, also some comments for other coders to give some context))
 Basic Renpy Syntax (They all start with a keyword that introduces the sentence, with the exception of say.)
-Different types of inputs (different characters involved in the story, with different names and different actions.)
 Changes in the main configuration of the project (we've added multiple choice questions and also new backgrounds and new taxts to the game)
 Changes of scenes and images (adding pictures to enphasise what the story is talking about.)
 
@@ -24,7 +20,6 @@ Basic Renpy project structure
 Basic Renpy Syntax
 Python Syntax
 Using images and using properly sized images
-Different types of inputs
 Changes in the main configuration of the project
 Changes of scenes and images
 
